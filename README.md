@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 
 `cd snake-game`
-Run the game:
+##### **Run the game:**
 
 
 `python snake.py`

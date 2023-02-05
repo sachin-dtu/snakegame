@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repository to your local machine:
 
 
-`git clone https://github.com/<your-username>/snake-game.git` Copy code
+`git clone https://github.com/sachin-dtu/snakegame.git` Copy code
 ##### **Navigate to the repository:**
 
 

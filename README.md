@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 
 
 `git clone https://github.com/<your-username>/snake-game.git` Copy code
-Navigate to the repository:
+##### **Navigate to the repository:**
 
 
 `cd snake-game`

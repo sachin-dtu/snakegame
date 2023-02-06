@@ -19,7 +19,7 @@ Clone the repository to your local machine:
 ##### **Run the game:**
 
 
-`python snake.py`
+`python main.py`
 ### **Controls**
 Use the arrow keys to control the snake.
 

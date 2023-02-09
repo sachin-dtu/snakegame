@@ -15,7 +15,7 @@ Clone the repository to your local machine:
 ##### **Navigate to the repository:**
 
 
-`cd snake-game`
+```cd snake-game```
 ##### **Run the game:**
 
 
